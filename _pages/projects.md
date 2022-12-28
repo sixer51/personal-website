@@ -2,10 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+# description: Here are some of my robotics projects 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Research, Work, Undergraduate project]
+# research / work: soft modular robot, gsoc, cheitech - glove
+# undergraduate project: highway trash car, caterpillar, robotcup
 horizontal: false
 ---
 

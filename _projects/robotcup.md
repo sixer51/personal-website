@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
+title: Robotcup competition
+# description: A robot developed for robotcup competition in Beihang University
+img: assets/img/beihang_robotcup.png
+importance: 3
+category: competition
 ---
 
 Every project has a beautiful feature showcase page.

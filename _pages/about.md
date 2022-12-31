@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!-- #### About me -->
-I am a Robotics Engineering PhD student in [Robotic materials group](https://wp.wpi.edu/roboticmaterialsgroup/) at Worcester Polytechnic institute advised by Prof. [Markus P. Nemitz](https://www.wpi.edu/people/faculty/mnemitz).
+I am a Robotics Engineering PhD student in the [Robotic Materials Group](https://wp.wpi.edu/roboticmaterialsgroup/) at Worcester Polytechnic institute advised by Prof. [Markus P. Nemitz](https://www.wpi.edu/people/faculty/mnemitz).
 
 My research interest lies in the intersection of underwater robotics, soft modular robots, and advanced manufacturing. My current research focuses on how to improve 3D printing techniques to create functional watertight components for underwater robots.
 

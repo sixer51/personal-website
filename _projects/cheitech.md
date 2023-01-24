@@ -2,7 +2,7 @@
 layout: page
 title: EEG-controlled hand exoskeleton
 description: in Cheitech
-img: assets/img/cheitech_all.png
+img: assets/img/cheitech_all.jpeg
 importance: 3
 category: Work
 ---

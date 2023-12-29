@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 <!-- #### About me -->
 I am a Robotics Engineering PhD student in the [Robotic Materials Group](https://wp.wpi.edu/roboticmaterialsgroup/) at Worcester Polytechnic institute advised by Prof. [Markus P. Nemitz](https://www.wpi.edu/people/faculty/mnemitz).
 
-My research interest lies in the intersection of underwater robotics, soft modular robots, and advanced manufacturing. My current research focuses on how to improve 3D printing techniques to create functional watertight components for underwater robots.
+My research interest lies in the intersection of additive manufacturing, soft robots, and underwater robotics. My current research focuses on how to improve 3D printing techniques to create functional watertight components for underwater robots.
 
 Prior to WPI, I received my Master's degree in Computer Science at Dartmouth College, under the supervision of Prof. [Devin Balkcom](https://rlab.cs.dartmouth.edu/devin/) and Prof. [Alberto Quattrini Li](https://rlab.cs.dartmouth.edu/albertoq/) and Bachelor's degree in Automation, focusing on Mechatronics, at Beihang University. 
 
